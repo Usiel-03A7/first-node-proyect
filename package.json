@@ -1,0 +1,29 @@
+{
+  "name": "firstproyect",
+  "version": "0.0.1",
+  "description": "este es mi primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usiel-03A7/first-node-proyect.git"
+  },
+  "keywords": [
+    "first",
+    "proyect",
+    "nodejs",
+    "fazt"
+  ],
+  "author": "Usiel-03A7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usiel-03A7/first-node-proyect/issues"
+  },
+  "homepage": "https://github.com/Usiel-03A7/first-node-proyect#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
